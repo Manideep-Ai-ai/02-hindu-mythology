@@ -1,0 +1,8 @@
+# tooling and OS files
+.claude-flow/
+.DS_Store
+node_modules/
+
+# drafts and a duplicate 12 MB video; only the résumé is linked
+uploads/*
+!uploads/Manideep R resume.docx
